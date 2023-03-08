@@ -85,6 +85,7 @@ namespace Calculs
                         if (reponse == solution)
                         {
                             Console.WriteLine("Bravo !");
+                            Console.WriteLine();
                         }
                         else
                         {
